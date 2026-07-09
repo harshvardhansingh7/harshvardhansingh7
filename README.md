@@ -53,6 +53,26 @@ Building a reusable execution engine for Retrieval, RAG, Agent workflows, and LL
 
 ### Connect
 
-<a href="https://www.linkedin.com/in/harshvardhansingh-in/">LinkedIn</a>
+<p>
+<a href="https://github.com/hrsvd">
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/harshvardhansingh-in/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@hrsvd">
+  <img src="https://cdn.simpleicons.org/medium/000000" height="42" alt="Medium"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://hashnode.com/@hrsvd">
+  <img src="https://cdn.simpleicons.org/hashnode/2962FF" height="42" alt="Hashnode"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://dev.to/hrsvd">
+  <img src="https://cdn.simpleicons.org/devdotto/0A0A0A" height="42" alt="Dev.to"/>
+</a>
+</p>
 
 </div>
